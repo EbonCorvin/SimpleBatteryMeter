@@ -3,11 +3,11 @@
 
 Just a really simple battery meter that display the current battery level of ~~your PC / laptop / Windows tablet~~ any Windows device on a little window floating at the corner of your screen, nothing fancy at all.
 
-<img width="71" alt="2024-06-05 (1)" src="https://github.com/EbonCorvin/SimpleBatteryMeter/assets/153107703/717140e0-a971-40e6-8ff0-6171aec9ceb5">
-<img width="71" alt="2024-06-05" src="https://github.com/EbonCorvin/SimpleBatteryMeter/assets/153107703/3dec9de1-c154-4522-ba78-18e9207273a1">
-<img width="71" alt="2024-06-05" src="https://github.com/EbonCorvin/SimpleBatteryMeter/assets/153107703/a8f7554c-a018-4191-b632-41968830a5d7">
+<img width="71" alt="2024-06-05 (1)" src="https://github.com/EbonCorvin/SimpleBatteryMeter/assets/153107703/5a710a97-c2b6-4b77-a541-edfe15879226">
+<img width="71" alt="2024-06-05" src="https://github.com/EbonCorvin/SimpleBatteryMeter/assets/153107703/e555b0b9-74d4-45d0-9b69-da2d0062da08">
+<img width="71" alt="2024-06-05" src="https://github.com/EbonCorvin/SimpleBatteryMeter/assets/153107703/b9e304be-8e62-4790-ad52-db7f6070b9ad">
 
-Please note that it was a project I created for myself 8 years ago, and the chance that the project may receive update is slim. Though I may still try to add some experimental features on it without making it becomes too "large and useless".
+Please note that it was a project I created for myself 8 years ago, and the chance that the project may receive update is slim. Though I may still try to add some experimental features on it in the future without making it becomes too "large and useless".
 
 ## Table of Contents
 
